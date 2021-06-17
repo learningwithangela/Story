@@ -1,1 +1,2 @@
 Hello this is the first tex to be committed in this lesson.
+As we are learning git branching this text is added to the first branch.
